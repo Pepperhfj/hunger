@@ -12,7 +12,7 @@ const button = document.getElementById('button');
 // Get the ID of 'button' element !
 // <3
 const meatContainer = document.getElementById('meat');
-// Get the ID of 'meat' img element !
+// Get the ID of 'meat' img element & creates a container !
 
 button.onclick = yearningHunger;
 // Clicking the button will start the 'yearningHunger' function XD
